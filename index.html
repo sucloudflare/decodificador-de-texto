@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embaralhador de Palavras</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Acme&family=Honk&family=Lilita+One&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <img src="./image/deco.jpeg" alt="Decoração">
+        <div id="overlay">
+            <h1>O Coiso que Embaralha as Palavras</h1>
+        </div>
+    </header>
+    
+    <div id="hey">
+        <div id="layer-up"></div>
+    </div>
+    
+    <div id="layer-0">
+        <div id="layer-1">
+            <div id="layer-2">
+                <div id="lines">
+                    <div id="layer-corner"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+ 
+    <div id="mtnZZZ"></div>
+
+    <main class="project-main">
+        <textarea id="input" placeholder="Digite o seu texto aqui!" class="textarea"></textarea>
+    
+        <aside class="options">
+            <p class="alert-text">
+                <img src="./image/alert.png" alt="Logo alerta" class="alert-img">
+                Apenas letras minúsculas e sem acentos!
+            </p>
+    
+            <button onclick="encrypt()" class="btn">Criptografar</button>
+            <button onclick="decrypt()" class="btn">Descriptografar</button>
+        </aside>
+        <p class="advice-text disable">Digite o texto que você deseja criptografar ou descriptografar</p>
+        <div class="container-result-message">
+          <textarea class="result-text" placeholder="Texto aqui!"></textarea>
+            <button class="btn-decrypted btn-group enable btn-copy" onclick="copy()">Copiar</button>
+        </div>
+    </main>   
+    <footer>
+        <p>Desenvolvido por Edson Bruno 🚀</p>
+    </footer>
+    <script src="script.js" defer></script>
+</body>
+</html>
