@@ -8,12 +8,6 @@
 
    <p>Basta inserir o código HTML no campo abaixo e clicar no botão "Decodificar". O resultado será exibido na área de texto.</p>
 
-   <form id="htmlDecoderForm">
-        <label for="htmlCode">Código HTML:</label><br>
-        <textarea id="htmlCode" name="htmlCode" rows="4" cols="50"></textarea><br>
-        <button type="button" onclick="decodeHTML()">Decodificar</button>
-    </form>
-
   <h2>Contribuição</h2>
 
    <p>Se desejar contribuir com melhorias ou correções, sinta-se à vontade para criar um fork do projeto e enviar um pull request.</p>
