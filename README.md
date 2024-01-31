@@ -1,39 +1,26 @@
 # decodificador-de-texto
 
-  <h1>Nome do Projeto</h1>
+ <h1>Decodificador HTML</h1>
 
-  <p>Descrição concisa do seu projeto.</p>
+  <p>Este é um simples decodificador HTML que converte códigos HTML em texto legível.</p>
 
-   <h2>Requisitos</h2>
+  <h2>Como Usar</h2>
 
-  <p>Liste aqui todas as dependências e requisitos necessários para executar o seu código. Exemplo:</p>
-    <ul>
-        <li>Python 3.7 ou superior</li>
-        <li>Biblioteca XYZ (com a versão específica, se necessário)</li>
-    </ul>
+   <p>Basta inserir o código HTML no campo abaixo e clicar no botão "Decodificar". O resultado será exibido na área de texto.</p>
 
-  <h2>Instalação</h2>
+   <form id="htmlDecoderForm">
+        <label for="htmlCode">Código HTML:</label><br>
+        <textarea id="htmlCode" name="htmlCode" rows="4" cols="50"></textarea><br>
+        <button type="button" onclick="decodeHTML()">Decodificar</button>
+    </form>
 
-   <p>Forneça instruções sobre como instalar as dependências e configurar o ambiente de trabalho. Exemplo:</p>
-    <pre><code>pip install -r requirements.txt</code></pre>
+  <h2>Contribuição</h2>
 
-   <h2>Como Usar</h2>
-
-   <p>Explicação detalhada sobre como executar o seu código. Inclua exemplos de comandos e parâmetros, se aplicável.</p>
-    <pre><code>python meu_codigo.py --parametro1 valor1 --parametro2 valor2</code></pre>
-
-   <h2>Contribuição</h2>
-
-   <p>Explique como os outros podem contribuir para o seu projeto. Inclua informações sobre como relatar problemas, enviar solicitações de pull, etc.</p>
+   <p>Se desejar contribuir com melhorias ou correções, sinta-se à vontade para criar um fork do projeto e enviar um pull request.</p>
 
   <h2>Licença</h2>
 
-   <p>Indique a licença sob a qual o seu código está sendo disponibilizado.</p>
+  <p>Este decodificador HTML é distribuído sob a licença MIT. Consulte o arquivo <a href="LICENSE">LICENSE</a> para obter detalhes.</p>
 
-   <h2>Autor</h2>
-
-   <p>Seu nome e outras informações relevantes sobre o autor.</p>
-
-   <h2>Agradecimentos</h2>
-
-   <p>Caso haja pessoas, organizações ou recursos que você queira agradecer, inclua-os aqui.</p>
+  <h2>Autor</h2>
+    <p>Edson Bruno</p>
