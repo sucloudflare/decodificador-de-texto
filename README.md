@@ -30,11 +30,7 @@
 
    <h3>Publicação</h3>
     <h4>Este projeto se encontra no Linkedin:</h4>
-    <ul>
-        <li>Acme</li>
-        <li>Honk</li>
-        <li>Lilita Um</li>
-    </ul>
-       <a href="https://www.linkedin.com/posts/edson-bruno-dev_html-decodificador-desenvolvimentoweb-activity-7158279114410336256-l4Hh?utm_source=share&utm_medium=member_desktop">Clica aqui e deer seu joinha <3 </a>
+
+   <a href="https://www.linkedin.com/posts/edson-bruno-dev_html-decodificador-desenvolvimentoweb-activity-7158279114410336256-l4Hh?utm_source=share&utm_medium=member_desktop">Clica aqui e deer seu joinha <3 </a>
    <h3>Desenvolvedor</h3>
    <p>Desenvolvido por Edson Bruno 🚀.</p>
