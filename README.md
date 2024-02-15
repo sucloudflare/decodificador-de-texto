@@ -28,11 +28,11 @@
         <li>JavaScript: As funcionalidades de criptografia/descriptografia estão implementadas no arquivo script.js.</li>
     </ul>
 
-   <h3>Fontes Utilizadas</h3>
-    <h4>Este projeto utiliza as fontes:</h4>
+   <h3>Publicação</h3>
+    <h4>Este projeto se encontra no Linkedin:</h4>
     <ul>
 
-   iframe width="560" height="315" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7158279114410336256" frameborder="0" allowfullscreen></iframe>
+   <a href="https://www.linkedin.com/posts/edson-bruno-dev_html-decodificador-desenvolvimentoweb-activity-7158279114410336256-l4Hh?utm_source=share&utm_medium=member_desktop">link</a>
 
  <h2>Bem-vindo ao "O Coiso que Embaralha as Palavras", uma aplicação simples para criptografar e descriptografar textos. Esta aplicação aceita apenas letras minúsculas e sem acentos.</h2>
         <li>Acme</li>
